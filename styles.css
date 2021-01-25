@@ -1,0 +1,25 @@
+.AboutMe {
+    font-family: 'Nerko One', cursive;
+}
+
+.Name {
+    font-family: 'Sansita Swashed', cursive;
+    color: #9900cc;
+}
+
+body {
+    background-color: #0055ff;
+}
+
+li {
+    color: #00ffff;
+}
+
+P {
+    color: #00ffff;
+}
+
+img {
+    border: 10px outset blue;
+    width: 425px;
+}
